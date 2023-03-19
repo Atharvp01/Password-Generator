@@ -80,13 +80,10 @@ input::-webkit-inner-spin-button {
   }
 }
 
-/* for smaller devices
+/* for smaller devices */
 
 @media only screen and (max-width: 700px) {
   h1 {
     margin-top: 5rem;
   }
-  #submit-btn {
-    padding: 15px 20px;
-  }
-} */
+}
